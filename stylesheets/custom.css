@@ -1,0 +1,114 @@
+body {
+    margin: 10px;
+}
+
+img {
+    height: 200px;
+    width: 370px;
+}
+
+.nav {
+    padding: 15px;
+    position: relative;
+    border-bottom: 5px solid #004b87;
+}
+
+a {
+    color: black;
+    font-weight: bold;
+    position: relative;
+    font-size: 1.2em;
+}
+
+a:hover {
+    background-color: #004b87;
+    color: white;
+    text-decoration: underline;
+}
+
+.action {
+    position: relative;
+    top: -200px;
+    right: -920px;
+    display: flex;
+    margin: 5px;
+}
+
+action a {
+    margin: 10px;
+}
+
+.up-btn,
+.up-btn-1 {
+    background-color: #004b87;
+    color: white;
+}
+
+.up-btn:hover {
+    background-color: #64a70b;
+}
+
+.up-btn-1:hover {
+    background-color: #333f48;
+}
+
+section {
+    margin-bottom: 10%;
+}
+
+h1 {
+    font-size: 6.0em;
+    border-bottom: 3px solid #64a70b;
+}
+
+h3 {
+    font-size: 1.3em;
+    margin-bottom: 5%;
+}
+
+article {
+    background-color: #004b87;
+}
+
+article img:hover {
+    background-color: #64a70b;
+}
+
+.btn {
+    background-color: #64a70b;
+    border-radius: 0px;
+}
+
+.btn:hover {
+    background-color: #e57200;
+}
+
+article img {
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+.link-section {
+    margin-left: 15%;
+    color: white;
+}
+
+.col-4 {
+    margin-bottom: 3%;
+}
+
+.links a {
+    color: white;
+    font-weight: normal;
+    font-size: 1.0em
+}
+
+footer {
+    padding: 5px;
+    background-color: #333f48;
+    color: white;
+}
+
+footer p {
+    margin-left: 15%;
+}
